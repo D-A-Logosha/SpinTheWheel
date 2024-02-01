@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SpinTheWheel</string>
+    <string name="delete">delete</string>
 </resources>
